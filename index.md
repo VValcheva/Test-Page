@@ -37,3 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <h5 class="card-title">Bedroom 2</h5>
           <p class="card-text">Bedroom with bed 130/190 with 46" TV. The room is spacious with internal insulation. There are windows and shutters. The room has everything you need for a student. We provide pillows and blankets.</p>
+<h5 class="card-title">Kitchen</h5>
+          <p class="card-text">The kitchen is with dining area. There are brand new kitchen furniture with all the necessary appliances - microwave, built-in stove with 4 hot plates, refrigerator, coffee maker, oven, washing machine.</p>
